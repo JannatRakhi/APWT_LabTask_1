@@ -1,6 +1,6 @@
 @extends('layouts.custom')
 @section('content')
 <div class="container">
-    <h1 class="text-center">This is Contact page</h1>
+    <h2 class="text-center text-success">This is Contact page</h2>
 </div>
 @endsection

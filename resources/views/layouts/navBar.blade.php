@@ -5,11 +5,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-item nav-link text-danger fw-bold" href="{{ route ('home') }}">Home</a>
-        <a class="nav-item nav-link text-danger fw-bold" href="{{ route ('teams') }}">Teams</a>
-        <a class="nav-item nav-link text-danger fw-bold" href="{{ route ('about') }}">About</a>
-        <a class="nav-item nav-link text-danger fw-bold" href="{{ route ('contact') }}">Contact</a>
-        <a class="nav-item nav-link text-danger fw-bold" href="{{ route ('service') }}">Service</a>
+        <h4> <a class="nav-item nav-link text-primary fw-bold" href="{{ route ('home') }}">Home</a></h4>
+        <h4> <a class="nav-item nav-link text-primary fw-bold" href="{{ route ('teams') }}">Teams</a></h4>
+        <h4> <a class="nav-item nav-link text-primary fw-bold" href="{{ route ('about') }}">About</a></h4>
+        <h4> <a class="nav-item nav-link text-primary fw-bold" href="{{ route ('contact') }}">Contact</a></h4>
+        <h4> <a class="nav-item nav-link text-primary fw-bold" href="{{ route ('service') }}">Service</a></h4>
       </div>
     </div>
   </nav>

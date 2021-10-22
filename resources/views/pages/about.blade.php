@@ -1,6 +1,6 @@
 @extends('layouts.custom')
 @section('content')
 <div class="container">
-    <h1 class="text-center">This is About page</h1>
+    <h2 class="text-center"> <a class="nav-item nav-link text-success fw-bold">This is About page</h2>
 </div>
 @endsection
